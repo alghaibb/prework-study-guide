@@ -4,19 +4,20 @@
 
 Motivation:
 
-I embarked on this webpage with a simple yet powerful goal: mastering the essentials of HTML, CSS, Git, and JavaScript. This foundation would pave the way for my journey into the realm of web development.
+I created this webpage to learn the basics of HTML, CSS, Git, and JavaScript. These are like the building blocks of web stuff.
 
 Purpose:
 
-Driven by an unwavering commitment to knowledge, I embarked on the journey of crafting this project. Its purpose extends far beyond an academic endeavor. It serves as a repository—a sanctuary of learning. An archive I can revisit, a canvas on which to paint the insights I gather during my bootcamp expedition.
+I made this project to have a place to remember what I learn. It's like my own book that I can keep adding to as I learn more in my bootcamp.
 
 Solution:
 
-Introducing the Prework Study Guide webpage—a virtual guiding light for novices venturing into HTML, CSS, Git, and JavaScript. This resource simplifies the intricate concepts, offering an orderly path through the maze of foundational web technologies. Seamlessly structured, it ensures that the learning process is both comprehensible and enjoyable.
+The Prework Study Guide webpage is like a helpful map for beginners learning HTML, CSS, Git, and JavaScript. It makes learning these things easier and organized.
 
 Learning:
 
-Through this project, I've stood at the crossroads of HTML, CSS, Git, and JavaScript, absorbing their core tenets. As a result, I can confidently say that my understanding of these fundamental technologies has taken root.
+This project taught me the starting points of HTML, CSS, Git, and JavaScript.
+
 
 
 ## Installation
