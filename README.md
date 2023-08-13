@@ -27,7 +27,8 @@ N/A.
 
 ## Usage
 
-
+To use this Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing <kbd style="border: 1px solid #ddd; padding: 5px 10px; border-radius: 4px; font-size: 14px; background-color: #f5f5f5;">Command+Option+I</kbd> (MacOS) or
+<kbd style="border: 1px solid #ddd; padding: 5px 10px; border-radius: 4px; font-size: 14px; background-color: #f5f5f5;">Control+Shift+I</kbd> (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.
 
 ## Credits
 
